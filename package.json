@@ -1,0 +1,10 @@
+{
+    "name": "jquery-misc",
+    "version": "0.0.1",
+    "description": "A npm-packaged version of Ben Alman's miscellaneous jQuery plugins",
+    "author": "Ben Alman",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/CodeYellowBV/jquery-misc.git"
+    }
+}
